@@ -1,4 +1,5 @@
 # 👨‍💻 Efrain Alvarez 
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="33px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="33px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
@@ -9,6 +10,8 @@
 <img align="left" alt="Java" width="33px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="Java" width="33px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 <br />
+
+#
 
 ### 📈 Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
