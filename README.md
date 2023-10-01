@@ -7,7 +7,7 @@
 <img align="left" alt="Java" width="30px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-
+<img align="left" alt="Java" width="30px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <!--
 **Efrain-Alvarez/Efrain-Alvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
