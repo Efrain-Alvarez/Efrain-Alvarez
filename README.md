@@ -11,10 +11,8 @@
 <br />
 
 ### 📈 Stats
-![Efrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efrain-Alvarez&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Efrain-Alvarez&size_weight=0.5&count_weight=0.5)
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Efrain-Alvarez&theme=great-gatsby" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Efrain-Alvarez&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Efrain-Alvarez&layout=compact&langs_count=8&card_width=320" />
