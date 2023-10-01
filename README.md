@@ -1,4 +1,6 @@
 # ☄️ Efrain Alvarez 
+#
+![Efrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Efrain-Alvarez&show_icons=true&theme=great-gatsby)
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="33px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="33px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
