@@ -1,5 +1,13 @@
 # 👨‍💻 Efrain Alvarez 
 
+### About Me
+**`IT Specialist/Future Developer`**
+
+Hello! I'm Efrain, a recent graduate in Computer Science with a passion for programming and technology.I'm always learning and improving my skills to stay at the forefront of the ever-evolving tech landscape.
+My immediate focus is on enhancing my GitHub profile by actively contributing to open-source projects, sharing my own projects, and collaborating with fellow developers. I am open to new opportunities, collaborations, and experiences that allow me to grow both personally and professionally. Feel free to connect with me and let's innovate, learn, and create together!
+
+#
+
 ### 🧰 Languages and Tools
 <img align="left" alt="Java" width="40px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="40px" stlye="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
